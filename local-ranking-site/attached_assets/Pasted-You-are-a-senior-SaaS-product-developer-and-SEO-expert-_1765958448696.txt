@@ -1,0 +1,108 @@
+You are a senior SaaS product developer and SEO expert.
+
+I have an existing Next.js (App Router) + TypeScript SaaS marketing site.
+I want to ADD ONE NEW FEATURE PAGE focused on:
+Organic Rank Tracking.
+
+IMPORTANT CONTEXT:
+- Early-stage SaaS
+- No fake stats, testimonials, or guarantees
+- No Stripe yet
+- The actual tool already exists in a separate repo
+- This page is for MARKETING + SEO, not documentation
+- Google Maps Rank Tracking and Geo Grid Rank Tracking already have feature pages
+
+PAGE TO CREATE:
+/features/organic-rank-tracking
+
+TARGET AUDIENCE:
+SEO agencies, consultants, and professionals who manage both local and organic SEO.
+
+PRIMARY SEO INTENT:
+- organic rank tracking
+- organic keyword rank tracking
+- seo rank tracking tool
+- keyword position tracking
+
+SECONDARY INTENT:
+- Position organic tracking as a complementary feature
+- Reinforce value of tracking Maps + Organic together
+
+PAGE REQUIREMENTS (STRICT):
+
+1) PAGE H1 (ONE ONLY)
+"Organic Rank Tracking for SEO Professionals"
+
+2) INTRODUCTION (CONTEXT FIRST)
+- Explain why organic rankings are still critical for SEO
+- Explain how organic search differs from Google Maps results
+- Keep language simple and non-technical
+
+3) HOW ORGANIC RANK TRACKING WORKS
+- Explain tracking keyword positions in organic search results
+- Mention desktop and mobile tracking at a high level
+- No APIs, no technical details
+
+4) WHY ORGANIC TRACKING ALONE IS NOT ENOUGH
+- Explain why organic rankings don’t reflect local pack visibility
+- Set context for why Maps + Geo Grid tracking matter
+- This should naturally support other feature pages
+
+5) TRACK MAPS AND ORGANIC IN ONE PLACE (INTERNAL LINKS)
+- Explain the benefit of viewing organic and Maps rankings together
+- Add contextual internal links to:
+  /features/google-maps-rank-tracking
+  /features/geo-grid-rank-tracking
+- Position this as a unified SEO workflow
+
+6) WHY ORGANIC RANK TRACKING MATTERS
+- Measure SEO progress over time
+- Detect ranking drops and gains
+- Support reporting and optimisation decisions
+- Build long-term SEO visibility
+
+7) WHO THIS IS FOR
+- SEO agencies
+- Consultants managing SEO campaigns
+- Businesses investing in long-term organic growth
+
+8) SUPPORTING CAPABILITIES (SOFT FEATURES)
+- Manual rank checks (trial-friendly)
+- Historical position tracking
+- Exportable reports (mention as capability)
+- Scheduled checks can be mentioned as "available on paid plans"
+
+9) VISUAL PLACEHOLDER
+- Section titled:
+  "Organic Ranking Overview Example"
+- Mention that a real dashboard screenshot will be added later
+
+10) CTA SECTION (TRIAL-FIRST)
+- CTA button text: "Start Free Trial"
+- Subtext: "No credit card required"
+- Button should link to app signup URL (placeholder is fine)
+
+SEO & STRUCTURE REQUIREMENTS:
+- Semantic HTML
+- Clean H1 > H2 > H3 hierarchy
+- Natural keyword usage
+- Educational, honest tone
+- No numbers, usage stats, or promises
+
+DESIGN REQUIREMENTS:
+- Clean, professional SaaS layout
+- Minimal and readable
+- Mobile responsive
+- No heavy animations
+
+CONSTRAINTS:
+- Do NOT mention Google Business Profile API
+- Do NOT mention integrations not available
+- Do NOT include pricing
+- Do NOT include testimonials or logos
+- Do NOT duplicate Maps or Geo Grid page content
+
+DELIVERABLE:
+- Full page content and structure
+- Production-ready Next.js code
+- Brief explanation of how this page completes the feature set and supports SEO

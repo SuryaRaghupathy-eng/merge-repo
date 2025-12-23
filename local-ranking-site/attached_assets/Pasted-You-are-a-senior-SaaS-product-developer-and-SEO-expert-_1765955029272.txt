@@ -1,0 +1,92 @@
+You are a senior SaaS product developer and SEO expert.
+
+I already have a Next.js (App Router) + TypeScript SaaS marketing site.
+I want to FIX and FINALISE my HOMEPAGE for an early-stage SaaS launch.
+
+IMPORTANT CONTEXT:
+- This is an early-stage SaaS (no fake stats, no testimonials, no big numbers)
+- The actual app/tool already exists in a separate repo
+- This site is ONLY for marketing and SEO
+- Free trial is available (no Stripe yet)
+- Target audience: Local SEO agencies and SEO professionals (UK / global)
+
+Product positioning (DO NOT CHANGE):
+"Google Maps Rank Tracking with Geo Grid & Organic SEO Insights"
+
+TASK:
+Refactor and improve the HOMEPAGE ONLY.
+Do NOT add new pages.
+Do NOT redesign everything.
+Focus on clarity, trust, and correct trial flow.
+
+HOMEPAGE REQUIREMENTS (STRICT):
+
+1) HERO SECTION
+- ONE H1 only (exact text below):
+  Google Maps Rank Tracking with Geo Grid & Organic SEO Insights
+- Clear subheading explaining the product in simple language
+- Primary CTA button: "Start Free Trial"
+- Secondary CTA: "View Features"
+- Mention "No credit card required"
+
+2) HOW IT WORKS SECTION
+- Simple 3-step explanation:
+  1. Add keywords and locations
+  2. Track Google Maps & organic rankings
+  3. Visualise performance with geo grids and reports
+- Non-technical language
+- Beginner friendly
+
+3) CORE FEATURES OVERVIEW (SHORT)
+- Google Maps Rank Tracking
+- Geo Grid Rank Tracking
+- Organic Rank Tracking
+- Each feature should have:
+  - Short title
+  - 1–2 line explanation (benefit-focused)
+
+4) FAQ SECTION (VERY IMPORTANT)
+- REMOVE any fake stats or claims
+- ADD 5–7 FAQs about Local SEO & Rank Tracking
+- Questions should include:
+  - Why Google Maps rankings change by location
+  - What geo grid rank tracking is
+  - Difference between Maps and organic rankings
+  - Accuracy of local rank tracking
+  - Who this tool is for
+- Answers should be:
+  - Honest
+  - Educational
+  - Not salesy
+- FAQ content must be SEO-friendly
+- Structure the section so FAQ schema can be added later
+
+5) FINAL CTA SECTION
+- Clear CTA to start free trial
+- Button should link to existing app signup URL (placeholder is fine)
+- Reinforce "No credit card required"
+
+SEO REQUIREMENTS:
+- Use semantic HTML
+- Clean heading hierarchy
+- SEO-friendly copy
+- No misleading claims
+- No numbers unless clearly generic
+
+DESIGN REQUIREMENTS:
+- Clean, professional SaaS look
+- No heavy animations
+- Mobile responsive
+- Minimal and trustworthy
+
+CONSTRAINTS:
+- Do NOT add testimonials
+- Do NOT add user counts or usage numbers
+- Do NOT mention GBP API or integrations not available
+- Do NOT add Stripe or payment flows
+- Do NOT over-engineer
+
+DELIVERABLE:
+- Updated homepage structure and copy
+- Clean, production-ready code
+- Brief explanation of what was changed and why

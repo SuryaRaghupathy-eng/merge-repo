@@ -1,0 +1,89 @@
+You are a senior SaaS product developer and SEO expert.
+
+I want to build a PROFESSIONAL SaaS MARKETING WEBSITE using Next.js (App Router) with TypeScript.
+This website is ONLY for marketing and SEO — NOT the app dashboard.
+
+Product positioning (very important):
+Google Maps Rank Tracking with Geo Grid & Organic SEO Insights
+
+Target audience:
+Local SEO agencies, SEO professionals, and consultants.
+
+Core product features (for content only):
+1. Google Maps rank tracking
+2. Geo grid map view for local rankings
+3. Organic (classic SERP) rank tracking
+4. Clear SEO reporting dashboards
+
+Tech stack requirements:
+- Next.js (latest, App Router)
+- TypeScript
+- Server-side rendering / static generation
+- SEO-first architecture
+- Clean, readable code
+- No over-engineering
+
+Pages to create:
+1. Home (/)
+2. Features (/features)
+3. Pricing (/pricing)
+4. Blog (/blog) – placeholder only
+5. Contact (/contact)
+
+Homepage requirements (STRICT):
+- ONE H1 ONLY:
+  "Google Maps Rank Tracking with Geo Grid & Organic SEO Insights"
+- Clear, simple subheading explaining the product
+- Primary CTA button: "Start Free Trial"
+- Secondary CTA button: "View Geo Grid Demo"
+- Written in simple, professional language for SEO agencies
+
+Features page requirements:
+- Explain features in simple language
+- Separate sections for:
+  - Google Maps Rank Tracking
+  - Geo Grid Rank Tracking
+  - Organic Rank Tracking
+- No technical jargon
+- SEO-friendly headings (H2, H3)
+
+Pricing page requirements:
+- 3 plans:
+  - Starter (freelancers)
+  - Agency (SEO agencies)
+  - Enterprise (custom / contact sales)
+- No real pricing needed (use placeholders)
+- Clear and trustworthy layout
+
+SEO requirements (VERY IMPORTANT):
+- Use Next.js Metadata API for every page
+- Clean meta titles and meta descriptions
+- Semantic HTML (header, main, section, footer)
+- Internal links between pages
+- SEO-friendly URLs
+- Schema-friendly structure (SoftwareApplication ready, FAQ ready)
+
+Design requirements:
+- Clean, modern SaaS design
+- Professional and minimal
+- Mobile responsive
+- Fast loading
+- No heavy animations
+- No flashy or gimmicky UI
+
+Constraints:
+- Do NOT include authentication
+- Do NOT include dashboard or app logic
+- Do NOT over-design
+- Do NOT add extra pages or features
+- Use placeholder links where needed
+
+Deliverable:
+- Generate the full Next.js project structure
+- Provide clean, production-ready code
+- Briefly explain how to run and deploy the site
+
+IMPORTANT:
+Clarity > cleverness
+SEO > aesthetics
+Professional > flashy

@@ -1,0 +1,101 @@
+You are a senior SaaS product developer and SEO expert.
+
+I have an existing Next.js (App Router) + TypeScript SaaS marketing site.
+I want to ADD ONE NEW FEATURE PAGE focused on my core differentiator:
+Geo Grid Rank Tracking.
+
+IMPORTANT CONTEXT:
+- Early-stage SaaS
+- No fake stats
+- No testimonials
+- No enterprise promises
+- No Stripe yet
+- The actual app already exists in a separate repo
+- This page is for MARKETING + SEO only (not documentation)
+
+PAGE TO CREATE:
+/features/geo-grid-rank-tracking
+
+TARGET AUDIENCE:
+Local SEO agencies and SEO professionals (UK / global).
+
+PRIMARY SEO INTENT:
+- geo grid rank tracking
+- google maps grid ranking
+- local seo grid rank tracker
+
+PAGE REQUIREMENTS (STRICT):
+
+1) PAGE H1 (ONE ONLY)
+"Geo Grid Rank Tracking for Google Maps"
+
+2) INTRODUCTION (PROBLEM FIRST)
+- Explain why Google Maps rankings change by location
+- Explain why single-location rank tracking is misleading
+- Keep language simple and non-technical
+
+3) WHAT IS GEO GRID RANK TRACKING
+- Explain the concept in plain English
+- Describe how rankings are checked from multiple points within an area
+- No API mentions
+- No technical jargon
+
+4) HOW THIS TOOL SOLVES THE PROBLEM
+- Explain at a high level:
+  - Multiple location checks
+  - Visual grid-style map output
+  - Clear ranking visibility across an area
+- Focus on clarity, not implementation
+
+5) WHY THIS MATTERS (BENEFITS)
+- Identify weak visibility areas
+- Understand real local presence
+- Prove local SEO performance
+- Avoid false ranking assumptions
+
+6) WHO THIS IS FOR
+- Local SEO agencies
+- Consultants managing multiple locations
+- Businesses with physical service areas
+
+7) SUPPORTING CAPABILITIES (SOFT FEATURES)
+- Manual rank checks (trial-friendly)
+- Historical rank comparison (previous vs current)
+- Exportable reports (mention as capability, not guarantee)
+- Scheduled checks can be mentioned as "available on paid plans"
+
+8) VISUAL PLACEHOLDER
+- Add a placeholder section for:
+  "Geo Grid Visualization Example"
+- Mention that a real screenshot will be added later
+
+9) CTA SECTION (TRIAL-FIRST)
+- CTA button: "Start Free Trial"
+- Subtext: "No credit card required"
+- Button should link to app signup URL (placeholder is fine)
+
+SEO & STRUCTURE REQUIREMENTS:
+- Semantic HTML
+- Clear H2 / H3 hierarchy
+- Natural keyword usage
+- No misleading claims
+- No numbers or usage stats
+- Written to rank AND convert
+
+DESIGN REQUIREMENTS:
+- Clean SaaS layout
+- Professional tone
+- No heavy animations
+- Mobile responsive
+
+CONSTRAINTS:
+- Do NOT mention Google Business Profile API
+- Do NOT mention integrations not available
+- Do NOT include pricing
+- Do NOT include testimonials or logos
+- Do NOT add other feature pages
+
+DELIVERABLE:
+- Full page content and structure
+- Production-ready Next.js code
+- Brief explanation of page intent and SEO strategy

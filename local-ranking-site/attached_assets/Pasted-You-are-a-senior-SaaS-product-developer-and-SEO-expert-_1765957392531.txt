@@ -1,0 +1,108 @@
+You are a senior SaaS product developer and SEO expert.
+
+I have an existing Next.js (App Router) + TypeScript SaaS marketing site.
+I want to ADD ONE NEW FEATURE PAGE focused on:
+Google Maps Rank Tracking.
+
+IMPORTANT CONTEXT:
+- Early-stage SaaS
+- No fake stats, testimonials, or big claims
+- No Stripe yet
+- The actual app already exists in a separate repo
+- This page is for MARKETING + SEO (not documentation)
+- Geo Grid Rank Tracking already has its own feature page
+
+PAGE TO CREATE:
+/features/google-maps-rank-tracking
+
+TARGET AUDIENCE:
+Local SEO agencies, SEO professionals, and consultants (UK / global).
+
+PRIMARY SEO INTENT:
+- google maps rank tracking
+- google maps rank tracker
+- local seo rank tracking
+- google maps ranking tool
+
+SECONDARY INTENT:
+- Explain why Maps rankings differ from organic
+- Introduce geo grid tracking as an advanced capability (link to existing page)
+
+PAGE REQUIREMENTS (STRICT):
+
+1) PAGE H1 (ONE ONLY)
+"Google Maps Rank Tracking for Local SEO"
+
+2) INTRODUCTION (PROBLEM FIRST)
+- Explain why Google Maps rankings are critical for local businesses
+- Explain why Maps results behave differently from organic search
+- Keep language simple and non-technical
+
+3) HOW GOOGLE MAPS RANK TRACKING WORKS
+- Explain tracking visibility in the local map pack
+- Explain monitoring rankings for keywords and locations
+- No API mentions
+- No implementation details
+
+4) LIMITATIONS OF TRADITIONAL MAPS RANK TRACKING
+- Explain single-location checks
+- Explain why rankings can look stable but actually vary
+- Set up the need for more accurate tracking
+
+5) INTRODUCING GEO GRID VISIBILITY (INTERNAL LINK)
+- Briefly explain geo grid rank tracking as a more accurate method
+- Add a contextual internal link to:
+  /features/geo-grid-rank-tracking
+- Position geo grid as an advanced enhancement, not a replacement
+
+6) WHY GOOGLE MAPS RANK TRACKING MATTERS
+- Measure real local visibility
+- Track progress of local SEO work
+- Identify sudden drops or gains
+- Support agency reporting and decision-making
+
+7) WHO THIS IS FOR
+- Local SEO agencies
+- Consultants managing client locations
+- Businesses relying on Google Maps visibility
+
+8) SUPPORTING CAPABILITIES (SOFT FEATURES)
+- Manual rank checks (trial-friendly)
+- Rank history (previous vs current positions)
+- Exportable reports (mention as capability)
+- Scheduled checks can be mentioned as "available on paid plans"
+
+9) VISUAL PLACEHOLDER
+- Section titled:
+  "Google Maps Ranking Overview Example"
+- Note that a real screenshot will be added later
+
+10) CTA SECTION (TRIAL-FIRST)
+- CTA button text: "Start Free Trial"
+- Subtext: "No credit card required"
+- Button should link to app signup URL (placeholder is fine)
+
+SEO & STRUCTURE REQUIREMENTS:
+- Semantic HTML
+- Clear H1 > H2 > H3 hierarchy
+- Natural keyword usage
+- Educational, non-salesy tone
+- No numbers, stats, or guarantees
+
+DESIGN REQUIREMENTS:
+- Clean SaaS layout
+- Professional and minimal
+- Mobile responsive
+- No heavy animations
+
+CONSTRAINTS:
+- Do NOT mention Google Business Profile API
+- Do NOT mention integrations not available
+- Do NOT include pricing
+- Do NOT include testimonials or logos
+- Do NOT duplicate geo grid page content
+
+DELIVERABLE:
+- Full page content and structure
+- Production-ready Next.js code
+- Brief explanation of how this page supports SEO and funnels users to Geo Grid
